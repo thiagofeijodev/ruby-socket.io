@@ -2,8 +2,6 @@
 
 A Ruby client for Node.js's Socket.IO, enabling real-time, event-based communication between Ruby applications and Socket.IO servers.
 
-![Socket.IO Logo](https://socket.io/images/logo.svg)
-
 ## Features
 
 * **WebSocket Support**: Establishes persistent connections using the WebSocket protocol.
